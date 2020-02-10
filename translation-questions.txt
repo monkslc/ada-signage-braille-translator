@@ -1,0 +1,2 @@
+Should the "A" on "Changing Room A" be "a", ";a", ",a", or ";,a"?
+SHould the "B" on "Room B123" be "b", ";b", ",b", or ";,b"?

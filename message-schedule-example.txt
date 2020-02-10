@@ -1,0 +1,1039 @@
+Phrase	Dux Translation
+STORAGE	/orage
+CONCESSION STAND	3ces.n /&
+AUDITORIUM	auditorium
+AUDITORIUM	auditorium
+CONTROL BOOTH	3trol boo?
+STAIR	/air
+STAIR	/air
+STAGE	/age
+AUDIO ROOM	audio room
+DIMMER ROOM	dimm] room
+FIRE ALARM ANNUNCIATOR	fire al>m annunciator
+SET STORAGE	set /orage
+SET STORAGE	set /orage
+DATA ROOM	data room
+STORAGE ROOM	/orage room
+MENS DRESSING	m5s dress+
+STORAGE ROOM	/orage room
+WOMENS DRESSING	wom5s dress+
+COSTUME STORAGE	co/ume /orage
+COSTUME STORAGE	co/ume /orage
+PE/ATHLETIC CONFERENCE	pe_/a?letic 3f];e
+MAIN OFFICE	ma9 (fice
+MAIN OFFICE	ma9 (fice
+SECRETARY	secret>y
+PRINCIPALS OFFICE	pr9cipals (fice
+DATA ROOM	data room
+FILE STORAGE	file /orage
+CONFERENCE ROOM	3f];e room
+COATS	coats
+ATTENDANCE	att5d.e
+SECURITY	secur;y
+PTSA	ptsa
+WORKROOM	"wroom
+FILE STORAGE	file /orage
+PEER MEDIATION	pe] m$ia;n
+ASSOCIATE DEAN'S	associate d1n's
+DEAN'S OFFICE	d1n's (fice
+STORAGE	/orage
+AV EDITING	av $it+
+AV STUDIO	av /udio
+AV STUDIO	av /udio
+HEAD END	h1d 5d
+LOADING	load+
+CONTROL ROOM	3trol room
+AV OFFICE	av (fice
+RADIO	radio
+SPRINKLER ROOM	spr9kl] room
+CERAMICS	c]amics
+KILNS	kilns
+WORKROOM	"wroom
+STORAGE	/orage
+YEARBOOK	ye>book
+WOODSHOP	wood%op
+WOODSHOP	wood%op
+FINISHING ROOM	f9i%+ room
+ELECTRICAL	electrical
+STORAGE	/orage
+STORAGE	/orage
+STORAGE	/orage
+STORAGE	/orage
+STORAGE	/orage
+DATA ROOM	data room
+METAL SHOP	metal %op
+TRANSPORTATION LAB	transporta;n lab
+TRANSPORTATION LAB	transporta;n lab
+BOILER ROOM	boil] room
+CHILLER ROOM	*ill] room
+CULINARY CLASSROOM	cul9>y classroom
+ELECTRONICS	electronics
+FOOD LAB	food lab
+FOOD LAB	food lab
+CLOTHING LAB	clo?+ lab
+CLOTHING LAB	clo?+ lab
+WASHER/ DRYER	wa%]_/ dry]
+WASHER/ DRYER	wa%]_/ dry]
+STORAGE	/orage
+STORAGE	/orage
+STORAGE	/orage
+ORCHESTRA MUSIC	or*e/ra music
+DRAFTING	draft+
+STORAGE	/orage
+OFFICE	(fice
+OFFICE	(fice
+CADD ROOM	cadd room
+IN SCHOOL SUSPENSION	9 s*ool susp5.n
+FAMILY CONSUMER	family 3sum]
+GRAPHICS	graphics
+GRAPHICS	graphics
+NURSE	nurse
+RECOVERY	recov]y
+OFFICE	(fice
+RECOVERY	recov]y
+EXAM	exam
+EXAM	exam
+STORAGE	/orage
+2D ART	#b;d >t
+2D ART	#b;d >t
+CAFÉ	caf^/e
+STORAGE	/orage
+CLASSROOM	classroom
+FACULTY	faculty
+BOOK ROOM	book room
+CLASSROOM	classroom
+STORAGE	/orage
+STORAGE	/orage
+STORAGE	/orage
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+YARD STORAGE	y>d /orage
+PAINT STORAGE	pa9t /orage
+RECEIVING ROOM	rcvg room
+RECEIVING ROOM	rcvg room
+CUSTODIAL OFFICE	cu/odial (fice
+PUMP ROOM	pump room
+FURNITURE STORAGE	furniture /orage
+CUSTODIAN LUNCHROOM	cu/odian lun*room
+CUSTODIAN MAINTENANCE	cu/odian ma9t5.e
+KITCHEN STORAGE	kit*5 /orage
+WOMEN'S LOCKER	wom5's lock]
+TRANSFORMER VAULT	trans=m] vault
+SWITCH ROOM	swit* room
+GENERATOR ROOM	g5]ator room
+MATRONS' LOCKER	matrons' lock]
+CUSTODIANS' LOCKER	cu/odians' lock]
+RECYCLING ROOM	recycl+ room
+RECYCLING ROOM	recycl+ room
+ORCHESTRA STORAGE	or*e/ra /orage
+PRACTICE ROOM	practice room
+BAND ROOM	b& room
+BAND ROOM	b& room
+STORAGE	/orage
+STORAGE	/orage
+BAND OFFICE	b& (fice
+CHORUS OFFICE	*orus (fice
+PRACTICE ROOM	practice room
+PRACTICE ROOM	practice room
+PRACTICE ROOM	practice room
+PRACTICE ROOM	practice room
+PRACTICE ROOM	practice room
+CHORUS ROOM	*orus room
+CHORUS ROOM	*orus room
+COMMONS	commons
+COMMONS	commons
+SENIOR COMMONS	s5ior commons
+ENTER DELI LINE	5t] deli l9e
+ENTER DELI LINE	5t] deli l9e
+ENTER HOT FOOD	5t] hot food
+ENTER HOT FOOD	5t] hot food
+ENTER GRILL LINE	5t] grill l9e
+MOP/ LAUNDRY	mop_/ laundry
+FACULTY DINING	faculty d9+
+FACULTY DINING	faculty d9+
+OFFICE	(fice
+FOOD SERVICE	food s]vice
+FOOD STORAGE	food /orage
+STORAGE	/orage
+TICKET BOOTH	ticket boo?
+GYMNASIUM	gymnasium
+GYMNASIUM	gymnasium
+GYMNASIUM	gymnasium
+GYMNASIUM	gymnasium
+SWITCH ROOM	swit* room
+TRANSFORMER VAULT	trans=m] vault
+EQUIPMENT STORAGE	equip;t /orage
+WASHER/ DRYER	wa%]_/ dry]
+GIRLS' TEAM	girls' t1m
+GIRLS' TEAM	girls' t1m
+CUSTODIAL CLOSET	cu/odial closet
+STORAGE	/orage
+STORAGE	/orage
+STORAGE	/orage
+STORAGE	/orage
+STORAGE/ MECHANICAL	/orage_/ me*anical
+DATA ROOM	data room
+GIRLS' LOCKER	girls' lock]
+WOMEN COACHES'	wom5 coa*es'
+WOMEN COACHES'	wom5 coa*es'
+GIRLS' LOCKER	girls' lock]
+PE STORAGE	pe /orage
+PE STORAGE	pe /orage
+PE STORAGE	pe /orage
+CONTINUING EDUCATION	3t9u+ $uca;n
+CONTINUING EDUCATION	3t9u+ $uca;n
+CONTINUING EDUCATION	3t9u+ $uca;n
+ATHLETIC SECRETARY	a?letic secret>y
+STORAGE	/orage
+BOYS' LOCKER	boys' lock]
+BOYS' LOCKER	boys' lock]
+MEN COACHES'	m5 coa*es'
+MEN COACHES'	m5 coa*es'
+MEN COACHES'	m5 coa*es'
+BOYS' LOCKER	boys' lock]
+BOYS' LOCKER	boys' lock]
+STORAGE	/orage
+STORAGE	/orage
+STORAGE	/orage
+WASHER/ DRYER	wa%]_/ dry]
+TRAINER	tra9]
+CUSTODIAL CLOSET	cu/odial closet
+OFFICE	(fice
+STORAGE	/orage
+DATA ROOM IDF CLOSET	data room idf closet
+BOYS' LOCKER	boys' lock]
+BOYS' LOCKER	boys' lock]
+UNIFORM STORAGE	uni=m /orage
+ATHLETIC DIRECTOR	a?letic director
+STORAGE	/orage
+WEIGHT ROOM	wei<t room
+BOYS' TEAM	boys' t1m
+BOYS' TEAM	boys' t1m
+EXTERIOR STORAGE	ext]ior /orage
+ELECTRICAL CLOSET	electrical closet
+STORAGE	/orage
+OFFICE	(fice
+OFFICE	(fice
+AUXILIARY GYMNASIUM	auxili>y gymnasium
+AUXILIARY GYMNASIUM	auxili>y gymnasium
+CLASSROOM	classroom
+STORAGE	/orage
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+STORAGE ROOM	/orage room
+CLASSROOM	classroom
+CLASSROOM	classroom
+A HOUSE GUIDANCE	a h\se guid.e
+A HOUSE GUIDANCE	a h\se guid.e
+A HOUSE OFFICE	a h\se (fice
+CONFERENCE ROOM	3f];e room
+A HOUSE PRINCIPAL	a h\se pr9cipal
+OFFICE	(fice
+A HOUSE WORKROOM	a h\se "wroom
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+STORAGE	/orage
+MECHANICAL	me*anical
+CUSTODIAL CLOSET	cu/odial closet
+STORAGE	/orage
+ELEVATOR MACHINE	elevator ma*9e
+CUSTODIAL CLOSET	cu/odial closet
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+B HOUSE OFFICE	;b h\se (fice
+B HOUSE WORKROOM	;b h\se "wroom
+CONFERENCE ROOM	3f];e room
+B HOUSE PRINCIPAL	;b h\se pr9cipal
+B HOUSE GUIDANCE	;b h\se guid.e
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+C HOUSE GUIDANCE	;c h\se guid.e
+C HOUSE GUIDANCE	;c h\se guid.e
+C HOUSE OFFICE	;c h\se (fice
+CONFERENCE ROOM	3f];e room
+C HOUSE PRINCIPAL	;c h\se pr9cipal
+OFFICE	(fice
+STORAGE	/orage
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+STORAGE	/orage
+MECHANICAL	me*anical
+CUSTODIAL CLOSET	cu/odial closet
+MECHANICAL	me*anical
+STORAGE	/orage
+DATA ROOM	data room
+CUSTODIAL CLOSET	cu/odial closet
+MEDIA CENTER	m$ia c5t]
+WORKROOM	"wroom
+WORKROOM	"wroom
+WORKROOM	"wroom
+WORKROOM	"wroom
+AV STORAGE	av /orage
+PODCAST ROOM	podca/ room
+CAREER CENTER	c>e] c5t]
+CAREER CENTER	c>e] c5t]
+ELECTRICAL	electrical
+SECURITY OFFICE	secur;y (fice
+SCHOOL STORE	s*ool /ore
+SCHOOL STORE	s*ool /ore
+OFFICE STORAGE	(fice /orage
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+STORAGE	/orage
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+STORAGE	/orage
+CUSTODIAL CLOSET	cu/odial closet
+CLASSROOM	classroom
+PREP ROOM	prep room
+PREP ROOM	prep room
+PREP ROOM	prep room
+CHEMISTRY LAB	*emi/ry lab
+CHEMISTRY LAB	*emi/ry lab
+PREP ROOM	prep room
+PREP ROOM	prep room
+PREP ROOM	prep room
+PHYSICS LAB	physics lab
+PHYSICS LAB	physics lab
+PREP ROOM	prep room
+GENERAL SCIENCE	g5]al sci;e
+PREP ROOM	prep room
+CHEMISTRY LAB	*emi/ry lab
+CHEMISTRY LAB	*emi/ry lab
+PREP ROOM	prep room
+PREP ROOM	prep room
+PREP ROOM	prep room
+CHEMISTRY LAB	*emi/ry lab
+GENERAL SCIENCE	g5]al sci;e
+MATH LAB	ma? lab
+MATH LAB	ma? lab
+GENERAL SCIENCE	g5]al sci;e
+PREP ROOM	prep room
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+STORAGE/ DATA	/orage_/ data
+CUSTODIAL CLOSET	cu/odial closet
+STORAGE	/orage
+MECHANICAL	me*anical
+CUSTODIAL CLOSET	cu/odial closet
+STORAGE	/orage
+MAIN DATA ROOM	ma9 data room
+STORAGE	/orage
+BIOLOGY LAB	biology lab
+PREP ROOM	prep room
+BIOLOGY LAB	biology lab
+PREP ROOM	prep room
+DATA ROOM	data room
+BIOLOGY LAB	biology lab
+PREP ROOM	prep room
+PREP ROOM	prep room
+PREP ROOM	prep room
+BIOLOGY LAB	biology lab
+BIOLOGY LAB	biology lab
+PREP ROOM	prep room
+STORAGE	/orage
+BIOLOGY LAB	biology lab
+PREP ROOM	prep room
+GENERAL SCIENCE	g5]al sci;e
+GENERAL SCIENCE	g5]al sci;e
+PREP ROOM	prep room
+PREP ROOM	prep room
+DATA ROOM	data room
+STORAGE	/orage
+GENERAL SCIENCE	g5]al sci;e
+CLASSROOM	classroom
+CLASSROOM	classroom
+STORAGE	/orage
+CLASSROOM	classroom
+CLASSROOM	classroom
+BUSINESS DEPARTMENT	busi;s de"p;t
+OFFICE	(fice
+WORKROOM	"wroom
+CLASSROOM	classroom
+BUSINESS LAB	busi;s lab
+BUSINESS LAB	busi;s lab
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+STORAGE	/orage
+CLASSROOM	classroom
+CLASSROOM	classroom
+STORAGE	/orage
+CLASSROOM	classroom
+CLASSROOM	classroom
+PREP ROOM	prep room
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+CLASSROOM	classroom
+STORAGE/ DATA	/orage_/ data
+CUSTODIAL CLOSET	cu/odial closet
+STORAGE	/orage
+STORAGE/ DATA	/orage_/ data
+CUSTODIAL CLOSET	cu/odial closet
+STORAGE	/orage
+MATH OFFICE	ma? (fice
+MATH WORKROOM	ma? "wroom
+STORAGE	/orage
+SCIENCE WORKROOM	sci;e "wroom
+SCIENCE OFFICE	sci;e (fice
+STORAGE	/orage
+STORAGE	/orage
+OFFICE	(fice
+OFFICE	(fice
+MUSEUM	museum
+WORLD LANGUAGE	_w language
+PPT	ppt
+SPECIAL EDUCATION	special $uca;n
+SPECIAL EDUCATION	special $uca;n
+BOOK STORAGE	book /orage
+STORAGE	/orage
+ENGLISH OFFICE	5gli% (fice
+WORKROOM	"wroom
+WORLD LANGUAGE	_w language
+STORAGE	/orage
+SOCIAL STUDIES	social /udies
+SOCIAL STUDIES	social /udies
+STORAGE	/orage
+STORAGE	/orage
+OFFICE	(fice
+FEMALE/MALE/ISA ICONS	female_/male_/isa icons
+FEMALE/MALE/ISA ICONS	female_/male_/isa icons
+FEMALE/MALE/ISA ICONS	female_/male_/isa icons
+FEMALE/MALE/ISA ICONS	female_/male_/isa icons
+FEMALE/MALE/ISA ICONS	female_/male_/isa icons
+FEMALE/MALE/ISA ICONS	female_/male_/isa icons
+FEMALE/MALE/ISA ICONS	female_/male_/isa icons
+FEMALE/MALE/ISA ICONS	female_/male_/isa icons
+FEMALE/ISA ICONS	female_/isa icons
+FEMALE/ISA ICONS	female_/isa icons
+FEMALE/ISA ICONS	female_/isa icons
+FEMALE/ISA ICONS	female_/isa icons
+FEMALE/ISA ICONS	female_/isa icons
+FEMALE/ISA ICONS	female_/isa icons
+FEMALE/ISA ICONS	female_/isa icons
+FEMALE/ISA ICONS	female_/isa icons
+FEMALE/ISA ICONS	female_/isa icons
+FEMALE/ISA ICONS	female_/isa icons
+FEMALE/ISA ICONS	female_/isa icons
+FEMALE/ISA ICONS	female_/isa icons
+MALE/ISA ICONS	male_/isa icons
+MALE/ISA ICONS	male_/isa icons
+MALE/ISA ICONS	male_/isa icons
+MALE/ISA ICONS	male_/isa icons
+MALE/ISA ICONS	male_/isa icons
+MALE/ISA ICONS	male_/isa icons
+MALE/ISA ICONS	male_/isa icons
+MALE/ISA ICONS	male_/isa icons
+MALE/ISA ICONS	male_/isa icons
+MALE/ISA ICONS	male_/isa icons
+MALE/ISA ICONS	male_/isa icons
+STAIR AREA OF	/air >ea (
+STAIR AREA OF	/air >ea (
+CHECK-IN AT THE	*eck-9 at !
+EXIT	exit
+EXIT	exit
+EXIT	exit
+EXIT	exit
+EXIT	exit
+EXIT	exit
+EXIT	exit
+EXIT	exit
+EXIT	exit
+EXIT	exit
+EXIT	exit
+EXIT	exit
+EXIT	exit
+EXIT	exit
+EXIT	exit
+ACCESSIBLE ENTRANCE	a3essible 5tr.e
+CUSTODIAL STORAGE	cu/odial /orage
+TRAINER'S OFFICE	tra9]'s (fice
+CLASSROOM	classroom
+CLASSROOM	classroom
+ATHLETIC DIRECTOR	a?letic director
+C HOUSE WORKROOM	;c h\se "wroom
+SPECIAL EDUCATION	special $uca;n
+MATHEMATICS DEPARTMENT	ma!matics de"p;t
+DEPARTMENT OFFICES	de"p;t (fices
+SOCIAL STUDIES	social /udies
+SCIENCE DEPARTMENT	sci;e de"p;t
+WORLD LANGUAGE	_w language
+ENGLISH DEPARTMENT	5gli% de"p;t
+C HOUSE	;c h\se
+B HOUSE	;b h\se
+A HOUSE	a h\se
+M WING	;m w+
+AUDITORIUM NO FOOD OR	auditorium no food or
+FACULTY FEMALE/ISA ICONS	faculty female_/isa icons
+FACULTY FEMALE/ISA ICONS	faculty female_/isa icons
+FACULTY MALE/ISA ICONS	faculty male_/isa icons
+FACULTY MALE/ISA ICONS	faculty male_/isa icons
+FACULTY MALE/ISA ICONS	faculty male_/isa icons
+SUITE G03	suite g#jc
+SUITE G02	suite g#jb
+SUITE G01	suite g#ja
+SUITE 102	suite #ajb
+SUITE 101	suite #aja
+FLOOR G	floor ;g
+FLOOR G	floor ;g
+FLOOR 1	floor #a
+FLOOR 1	floor #a
+MANAGER	manag]
+CONCIERGE SCHEDULER	3ci]ge s*$ul]
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+MANAGER	manag]
+MANAGER	manag]
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+SHARED WORKROOM	%>$ "wroom
+CAUTION BIOHAZARD	cau;n biohaz>d
+CAUTION BIOHAZARD	cau;n biohaz>d
+CAUTION BIOHAZARD	cau;n biohaz>d
+EXIT	exit
+EXIT	exit
+EXIT	exit
+EXIT	exit
+EXIT	exit
+EXIT	exit
+MEN	m5
+WOMEN	wom5
+RESTROOM	re/room
+RESTROOM	re/room
+RESTROOM	re/room
+RESTROOM	re/room
+RESTROOM	re/room
+RESTROOM	re/room
+STAFF	/aff
+QUIET ROOM	quiet room
+MECHANICAL	me*anical
+REGISTRATION	regi/ra;n
+CHANGING ROOM	*ang+ room
+CLOSET	closet
+CLOSET	closet
+STAFF ROOM	/aff room
+IT	it
+EXAM 1	exam #a
+EXAM 2	exam #b
+EXAM 3	exam #c
+EXAM 4	exam #d
+PACS CUBE ROOM	pacs cube room
+STAFF	/aff
+CLOSET	closet
+X-RAY	;x-ray
+CHANGING ROOM	*ang+ room
+NUTRITION	nutri;n
+ADULT SPEECH	adult spee*
+SPEECH THERAPY	spee* !rapy
+TREATMENT ROOM	tr1t;t room
+WASHER DRYER	wa%] dry]
+STORAGE	/orage
+STAFF OFFICE	/aff (fice
+STAFF BREAK ROOM	/aff br1k room
+CLEAN LINEN	cl1n l95
+SOILED LINEN	soil$ l95
+ELEVATOR EQUIPMENT	elevator equip;t
+ULTRASOUND	ultras.d
+CHANGING ROOM	*ang+ room
+SOILED UTILITY	soil$ util;y
+CHANGING ROOM	*ang+ room
+MECHANICAL	me*anical
+CLOSET	closet
+DEXA	dexa
+CHANGING ROOM B	*ang+ room ;b
+CHANGING ROOM A	*ang+ room a
+MAMMOGRAPHY	mammography
+CHANGING ROOM B	*ang+ room ;b
+CHANGING ROOM A	*ang+ room a
+READING ROOM	r1d+ room
+MECHANICAL	me*anical
+MECHANICAL	me*anical
+EXAM 1	exam #a
+EXAM 2	exam #b
+EXAM 3	exam #c
+COAT CLOSET	coat closet
+EXAM 4	exam #d
+EXAM 5	exam #e
+RED BAG	r$ bag
+CLEAN	cl1n
+STAFF LOUNGE	/aff l\nge
+CLOSET	closet
+EXAM 6	exam #f
+EXAM 7	exam #g
+EXAM 8	exam #h
+EXAM 9	exam #i
+PHLEBOTOMY	phlebotomy
+ELEVATOR LOBBY	elevator lo2y
+RECEIVING	rcvg
+ENVIRONMENTAL SERVICES	5viron;tal s]vices
+CLOSET	closet
+INTAKE A	9take a
+INTAKE B	9take ;b
+RED BAG	r$ bag
+CLOSET	closet
+EXAM 12	exam #ab
+EXAM 1	exam #a
+EXAM 11	exam #aa
+EXAM 2	exam #b
+LAB	lab
+EXAM 3	exam #c
+EXAM 4	exam #d
+EXAM 5	exam #e
+EXAM 6	exam #f
+EXAM 7	exam #g
+EXAM 8	exam #h
+LAB	lab
+EXAM 9	exam #i
+EXAM 11	exam #aa
+EXAM 12	exam #ab
+EXAM 10	exam #aj
+I.T.	i4t4
+STAFF LOUNGE	/aff l\nge
+STORAGE	/orage
+FILE ROOM	file room
+PHONE ROOM	ph"o room
+ELEVATOR LOBBY	elevator lo2y
+IN CASE OF FIRE PLEASE USE STAIRS DO NOT USE ELEVATOR!	9 case ( fire pl1se use /airs d n use elevator6
+IN CASE OF FIRE PLEASE USE STAIRS DO NOT USE ELEVATOR!	9 case ( fire pl1se use /airs d n use elevator6
+IN CASE OF FIRE PLEASE USE STAIRS DO NOT USE ELEVATOR!	9 case ( fire pl1se use /airs d n use elevator6
+IN CASE OF FIRE PLEASE USE STAIRS DO NOT USE ELEVATOR!	9 case ( fire pl1se use /airs d n use elevator6
+MANAGER	manag]
+CONCIERGE SCHEDULER	3ci]ge s*$ul]
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+MANAGER	manag]
+MANAGER	manag]
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+OFFICE	(fice
+SHARED WORKROOM	%>$ "wroom
+CAUTION BIOHAZARD AREA	cau;n biohaz>d >ea
+CAUTION BIOHAZARD AREA	cau;n biohaz>d >ea
+CAUTION BIOHAZARD AREA	cau;n biohaz>d >ea
+IN CASE OF FIRE DO NOT USE ELEVATOR USE STAIRS	9 case ( fire d n use elevator use /airs
+IN CASE OF FIRE DO NOT USE ELEVATOR USE STAIRS	9 case ( fire d n use elevator use /airs
+IN CASE OF FIRE DO NOT USE ELEVATOR USE STAIRS	9 case ( fire d n use elevator use /airs
+STAIRS	/airs
+STAIRS	/airs
+STAIRS	/airs
+STAIRS	/airs
+STAIRS	/airs
+EMERGENCY EXIT ONLY	em]g5cy exit only
+EMERGENCY EXIT ONLY	em]g5cy exit only
+EMERGENCY EXIT ONLY	em]g5cy exit only
+EMERGENCY EXIT ONLY	em]g5cy exit only
+MEN	m5
+MEN	m5
+MEN	m5
+MEN	m5
+WOMEN	wom5
+WOMEN	wom5
+WOMEN	wom5
+WOMEN	wom5
+RESTROOM	re/room
+RESTROOM	re/room
+RESTROOM	re/room
+RESTROOM	re/room
+RESTROOM	re/room
+RESTROOM	re/room
+FAMILY	family
+COURTROOM 1	c\rtroom #a
+COURTROOM 1	c\rtroom #a
+COURTROOM 2	c\rtroom #b
+COURTROOM 2	c\rtroom #b
+COURTROOM 3	c\rtroom #c
+COURTROOM 3	c\rtroom #c
+JURY ROOM	jury room
+JURY ROOM	jury room
+CLERK	cl]k
+CLERK	cl]k
+CLERK'S OFFICE	cl]k's (fice
+INTERVIEW ROOM	9t]view room
+INTERVIEW ROOM	9t]view room
+JUDICIAL CONFERENCE ROOM	judicial 3f];e room
+DISPOSITION ROOM	4posi;n room
+DISPOSITION ROOM	4posi;n room
+STAFF CONFERENCE ROOM	/aff 3f];e room
+STAFF BREAK ROOM	/aff br1k room
+ATTORNEY ROOM	attorney room
+CONFERENCE ROOM #1	3f];e room _?#a
+CONFERENCE ROOM #2	3f];e room _?#b
+CONFERENCE ROOM #3	3f];e room _?#c
+CONFERENCE ROOM #4	3f];e room _?#d
+CONFERENCE ROOM #5	3f];e room _?#e
+CONFERENCE ROOM #6	3f];e room _?#f
+CONFERENCE ROOM #7	3f];e room _?#g
+CONFERENCE ROOM #8	3f];e room _?#h
+CONFERENCE ROOM #9	3f];e room _?#i
+CONFERENCE ROOM #10	3f];e room _?#aj
+SECURITY	secur;y
+SECURITY	secur;y
+SECURITY	secur;y
+DISTRICT ATTORNEY	4trict attorney
+MEDIATION ROOM	m$ia;n room
+MECHANICAL ROOM	me*anical room
+HOUSEKEEPING	h\sekeep+
+HOUSEKEEPING	h\sekeep+
+STAFF ONLY	/aff only
+STAFF ONLY	/aff only
+STAFF ONLY	/aff only
+STAFF ONLY	/aff only
+RECORDS STORAGE	records /orage
+STORAGE ROOM 1	/orage room #a
+STORAGE ROOM 2	/orage room #b
+BUILDING MAINTENANCE	build+ ma9t5.e
+MARSHALS 	m>%als
+MAIL ROOM - STAFF ONLY	mail room - /aff only
+CHAMBERS 	*amb]s
+CHAMBERS 	*amb]s
+CHAMBERS 	*amb]s
+CHAMBERS 	*amb]s
+DIRECTORY 	directory
+DIRECTORY 	directory
+103	#ajc
+103A 	#ajc;,a
+108	#ajh
+109	#aji
+114	#aad
+114A 	#aad;,a
+512	#eab
+513	#eac
+535	#ece
+535A 	#ece;,a
+112	#aab
+UTICA COLLEGE	utica college
+UTICA COLLEGE	utica college
+FIFTH FLOOR DIRECTORY	fif? floor directory
+FIFTH FLOOR MAP	fif? floor map
+FIRE EVACUATION 	fire evacua;n
+104 CLASSROOM	#ajd classroom
+105 CLASSROOM	#aje classroom
+107 CLASSROOM	#ajg classroom
+113 CLASSROOM	#aac classroom
+528 CLASSROOM	#ebh classroom
+529 CLASSROOM	#ebi classroom
+529 CLASSROOM	#ebi classroom
+534 CLASSROOM	#ecd classroom
+116 TRADING ROOM	#aaf trad+ room
+115 ADMINISTRATIVE OFFICES	#aae adm9i/rative (fices
+106 COMPUTER LAB	#ajf comput] lab
+501 CONFERENCE ROOM	#eja 3f];e room
+510 BREAKOUT ROOM	#eaj br1k\t room
+530 BREAKOUT ROOM	#ecj br1k\t room
+531 BREAKOUT ROOM	#eca br1k\t room
+532 BREAKOUT ROOM	#ecb br1k\t room
+537 BREAKOUT ROOM	#ecg br1k\t room
+536 BREAKOUT ROOM	#ecf br1k\t room
+R201 SIMULATION LAB	r#bja simula;n lab
+FIRE EXIT PLEASE KEEP DOOR CLOSED	fire exit pl1se keep door clos$
+KITCHEN AREA	kit*5 >ea
+COAT ROOM	coat room
+PRINTER AREA	pr9t] >ea
+516	#eaf
+115A 	#aae;,a
+502	#ejb
+503	#ejc
+504	#ejd
+505	#eje
+506	#ejf
+507	#ejg
+508	#ejh
+509	#eji
+511	#eaa
+514	#ead
+515	#eae
+517	#eag
+518	#eah
+524	#ebd
+525	#ebe
+526	#ebf
+523	#ebc
+R313 	r#cac
+533	#ecc
+A1 Sandra Levin Art Department	a#a s&ra lev9 >t de"p;t
+A2 Fr. Jean-Luc Zadroga Theology Department	a#b ;fr4 j1n-luc zadroga !ology de"p;t
+A3 Drew Schwalbe Science/Math Depts.	a#c drew s*walbe sci;e_/ma? depts4
+A4 James Hicks Science Department	a#d james hicks sci;e de"p;t
+A5 Peter Newman World Language Department	a#e pet] newman _w language de"p;t
+A6 Heather Hawkins World Language Department	a#f h1!r hawk9s _w language de"p;t
+A7 Shelly Roberts World Language Department	a#g %elly rob]ts _w language de"p;t
+A8 Lee Brantley World Language Department	a#h lee brantley _w language de"p;t
+B1 Kevin Knight Theology Department	b#a kev9 kni<t !ology de"p;t
+B2 Br. Matthew Hershey Theology Department	b#b br4 mat!w h]%ey !ology de"p;t
+B3 Cynthia Brinson English Department	b#c cyn?ia br9son 5gli% de"p;t
+B4 Michael Mammay English Department	b#d mi*ael mammay 5gli% de"p;t
+B5 Mary Elizabeth Zimmer English Department	b#e m>y elizabe? zimm] 5gli% de"p;t
+B6 Karen Marshall English Department	b#f k>5 m>%all 5gli% de"p;t
+ELECTRICAL 	electrical
+IT 	it
+MEN 	m5
+WOMEN 	wom5
+STUDY ROOM 1 	/udy room #a
+STUDY ROOM 2 	/udy room #b
+JANITORIAL 	janitorial
+CONFERENCE ROOM 2	3f];e room #b
+STORAGE 	/orage
+STORAGE 	/orage
+STORAGE 	/orage
+STORAGE 	/orage
+STORAGE 	/orage
+STORAGE 	/orage
+STORAGE 	/orage
+LECTURE HALL PANTRY 	lecture hall pantry
+CAPTAIN'S OFFICE	capta9's (fice
+OFFICE 	(fice
+SAFETY CAPTAIN OFFICE	safety capta9 (fice
+BATTALION CHIEF TRAINING	battalion *ief tra9+
+DEPUTY CHIEF OFFICE	deputy *ief (fice
+DEPUTY CHIEF OFFICE	deputy *ief (fice
+CHIEF'S OFFICE	*ief's (fice
+COMMUNITY ROOM A	commun;y room a
+COMMUNITY ROOM B	commun;y room ;b
+CORRIDOR 	corridor
+COMMUNITY ROOM B	commun;y room ;b
+TRAINING ROOM STORAGE	tra9+ room /orage
+LIVING QUARTERS	liv+ qu>t]s
+APPARATUS BAYS	app>atus bays
+LIVING QUARTERS	liv+ qu>t]s
+JANITOR ROOM	janitor room
+LAUNDRY ROOM	laundry room
+EXERCISE ROOM	ex]cise room
+9 BEDROOM	#i b$room
+8 BEDROOM	#h b$room
+7 BEDROOM	#g b$room
+STORAGE 	/orage
+6 BEDROOM	#f b$room
+5 BEDROOM	#e b$room
+4 BEDROOM	#d b$room
+3 BEDROOM	#c b$room
+2 BEDROOM	#b b$room
+1 BEDROOM	#a b$room
+MEDICAL STORAGE	m$ical /orage
+KITCHEN _ DINING ROOM	kit*5 "_ d9+ room
+DAY ROOM 	"d room
+CORRIDOR 	corridor
+ADMIN 	adm9
+LIVING QUARTERS	liv+ qu>t]s
+LIVING QUARTERS	liv+ qu>t]s
+APPARATUS BAYS	app>atus bays
+ADMIN 	adm9
+IT ROOM 	it room
+CONFERENCE ROOM	3f];e room
+ADMIN STORAGE	adm9 /orage
+ADMIN _ RECEPTION	adm9 "_ recep;n
+LOGISTICS STORAGE	logi/ics /orage
+TOOL ROOM 	tool room
+TURNOUT GEAR	turn\t ge>
+TURNOUT GEAR	turn\t ge>
+DECON ROOM	decon room
+PANTRY A 	pantry a
+PANTRY B 	pantry ;b
+PANTRY C 	pantry ;c
+SHIFT OFFICE	%ift (fice
+ELECTRICAL ROOM	electrical room
+APPARATUS BAYS	app>atus bays
+DECON ROOM	decon room
+OUTDOOR STORAGE	\tdoor /orage
+JANITORIAL A102	janitorial a#ajb
+TRAINING ROOM A105	tra9+ room a#aje
+ARMORY A107	>mory a#ajg
+STORAGE A108	/orage a#ajh
+KEY CONTROL A109A	key 3trol a#aji;,a
+VISITATION ROOM B A113	visita;n room ;b a#aac
+VISITATION ROOM A A114	visita;n room ;a a#aad
+VISITATION A117	visita;n a#aag
+VISITATION A117	visita;n a#aag
+VISITATION ROOM D A120	visita;n room ;d a#abj
+VISITATION ROOM C A121	visita;n room ;c a#aba
+SECURITY ELECTRONICS A124	secur;y electronics a#abd
+CENTRAL CONTROL ROOM A125	c5tral 3trol room a#abe
+HR MANAGER A130	hr manag] a#acj
+HR SPECIALIST A131	hr speciali/ a#aca
+CORRECT CARE PARTNERS A132	correct c>e "pn]s a#acb
+OFFICE A133	(fice a#acc
+M.I.S. SPECIALIST A134	m4i4s4 speciali/ a#acd
+STAFF BREAK ROOM A140	/aff br1k room a#adj
+CONFERENCE ROOM A A141	3f];e room ;a a#ada
+CONFERENCE ROOM A A141	3f];e room ;a a#ada
+SC DMH A144	sc dmh a#add
+RECORDS A145	records a#ade
+PAYROLL A148	payroll a#adh
+PURCHASING A149	pur*as+ a#adi
+ACCOUNTS PAYABLE A150	a3.ts payable a#aej
+JANITORIAL A152	janitorial a#aeb
+CONFERENCE ROOM B A156	3f];e room ;b a#aef
+CONFERENCE ROOM B A156	3f];e room ;b a#aef
+BUSINESS MANAGER A158	busi;s manag] a#aeh
+STAFF OFFICE A159	/aff (fice a#aei
+CLINICAL DIRECTOR A160	cl9ical director a#afj
+FACILITY INVESTIGATOR A161	facil;y 9ve/igator a#afa
+MAIL A165	mail a#afe
+HOUSING CONTROL ROOM H103	h\s+ 3trol room h#ajc
+ELEVATOR MACHINE ROOM H106	elevator ma*9e room h#ajf
+BARBER H107	b>b] h#ajg
+JANITORIAL H108	janitorial h#ajh
+SECURITY STORAGE H111A	secur;y /orage h#aaa;,a
+STAFF BREAK ROOM H113	/aff br1k room h#aac
+OFFICE H117	(fice h#aag
+CANTEEN H120	cante5 h#abj
+ELEVATOR H201	elevator h#bja
+NURSE'S STATION HM115	nurse's /a;n hm#aae
+MEDICAL RECORDS HM116	m$ical records hm#aaf
+LAB HM118	lab hm#aah
+EMERGENCY ROOM HM119	em]g5cy room hm#aai
+EXAM ROOM HM120	exam room hm#abj
+ARNP HM121	>np hm#aba
+X-RAY HM122	;x-ray hm#abb
+BIO-HAZARD HM124	bio-haz>d hm#abd
+OXYGEN STORAGE HM126	oxyg5 /orage hm#abf
+STORAGE HM127	/orage hm#abg
+JANITORIAL HM128	janitorial hm#abh
+DENTAL HM129	d5tal hm#abi
+PSYCHOLOGIST HM131	psy*ologi/ hm#aca
+DENTAL LAB HM133	d5tal lab hm#acc
+EQUIPMENT STORAGE HM134	equip;t /orage hm#acd
+PPG OFFICE HM136	ppg (fice hm#acf
+PPG HM137	ppg hm#acg
+POLYGRAPH HM138	polygraph hm#ach
+MEDICAL DIRECTOR HM139	m$ical director hm#aci
+CLEAN LINENS HM140	cl1n l95s hm#adj
+SOILED LINENS HM141	soil$ l95s hm#ada
+JANITORIAL HM143	janitorial hm#adc
+MEDICATION ROOM HM145	m$ica;n room hm#ade
+QUIET ROOM HM148	quiet room hm#adh
+DISHWASHER K202	di%wa%] k#bjb
+STAFF DINING K204A	/aff d9+ k#bjd;,a
+STAFF DINING K204B	/aff d9+ k#bjd;,b
+STORAGE K205	/orage k#bje
+JANITORIAL K206	janitorial k#bjf
+JANITORIAL K208	janitorial k#bjh
+FOOD SERVICE MANAGER K209	food s]vice manag] k#bji
+DRY STORAGE K212	dry /orage k#bab
+STORAGE K213	/orage k#bac
+LIBRARY P101	libr>y p#aja
+EDUCATION / VOCATION P102	$uca;n _/ voca;n p#ajb
+ACTIVITY DIRECTOR P103	activ;y director p#ajc
+GROUP ROOM 1 P105	gr\p room #a p#aje
+GROUP ROOM 2 P106	gr\p room #b p#ajf
+GROUP ROOM 3 P109	gr\p room #c p#aji
+JANITORIAL P108	janitorial p#ajh
+GROUP ROOM 4 P110	gr\p room #d p#aaj
+GROUP ROOM 5 P111	gr\p room #e p#aaa
+GROUP ROOM 6 P112	gr\p room #f p#aab
+GROUP ROOM 7 P113	gr\p room #g p#aac
+TEAM LEADER P116	t1m l1d] p#aaf
+PSYCHIATRIST P117	psy*iatri/ p#aag
+DIRECTOR OF SOCIAL SERVICES P118	director ( social s]vices p#aah
+TEAM LEADER P119	t1m l1d] p#aai
+PROPERTY ROOM S101	prop]ty room s#aja
+HOLDING ROOM S102	hold+ room s#ajb
+HOLDING ROOM S103	hold+ room s#ajc
+SECURITY ROOM S104	secur;y room s#ajd
+STAFF OFFICE S105	/aff (fice s#aje
+EXAM ROOM S107	exam room s#ajg
+JANITORIAL S113	janitorial s#aac
+CENTRAL JANITORIAL ROOM S118	c5tral janitorial room s#aah
+STAFF OFFICE S119	/aff (fice s#aai
+JANITORIAL S125	janitorial s#abe
+FACILITY MANAGER S127	facil;y manag] s#abg
+FACILITY MANAGER S127	facil;y manag] s#abg
+TRAINING COORDINATOR A105A	tra9+ coord9ator a#aje;,a
+WOMEN'S LOCKER ROOM A111	wom5's lock] room a#aaa
+MEN'S LOCKER ROOM A112	m5's lock] room a#aab
+SUPERVISOR'S OFFICE H110	sup]visor's (fice h#aaj
+PSYCHOLOGIST HM132	psy*ologi/ hm#acb
+ADMINISTRATIVE ASSISTANT HM123	adm9i/rative assi/ant hm#abc
+ADMINISTRATIVE ASSISTANT A142	adm9i/rative assi/ant a#adb
+ADMINISTRATIVE ASSISTANT A143	adm9i/rative assi/ant a#adc
+FACILITY ADMINISTRATOR A153	facil;y adm9i/rator a#aec
+ADMINISTRATIVE ASSISTANT A155	adm9i/rative assi/ant a#aee
+QUALITY IMPROVEMENT DIRECTOR A157	qual;y improve;t director a#aeg
+DIRECTOR OF SECURITY / OPERATIONS A162	director ( secur;y _/ op]a;ns a#afb
+DIANE SMITH MEMORIAL CONFERENCE ROOM H111	diane smi? memorial 3f];e room h#aaa
+ADMINISTRATIVE CAPTAIN H116	adm9i/rative capta9 h#aaf
+HEALTH SERVICES ADMINISTRATOR HM130	h1l? s]vices adm9i/rator hm#acj
+LAW LIBRARY / COMPUTER CLASSROOM P104	law libr>y _/ comput] classroom p#ajd
+CLINICAL DEPARTMENT STAFF P114	cl9ical de"p;t /aff p#aad
+CLINICAL CONFERENCE ROOM C P115	cl9ical 3f];e room ;c p#aae
